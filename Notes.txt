@@ -5,7 +5,7 @@ Keep checking for all notes and related fonder to this New Chapter..
 # we creat a Public/keep folder and keep images and videos in case server unable to access form cloud
 
 #.env file is a environment variable file  , when we push projects into production then ye env system se uuthaye jate hain naki files se uuthaye jate hain taaki ye secure rhe.
-=> .env and its module their is always panga in them 
+=> .env and its module their is always panga in them  
 
 
 
