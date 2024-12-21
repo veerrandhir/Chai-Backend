@@ -1,2 +1,17 @@
 This is a Text File I Will manage all my notes here.
 Keep checking for all notes and related fonder to this New Chapter..
+.gitignore help to manage which files we want to push to origin and it ignore the mentioned files
+
+# we creat a Public/keep folder and keep images and videos in case server unable to access form cloud
+
+#.env file is a environment variable file  , when we push projects into production then ye env system se uuthaye jate hain naki files se uuthaye jate hain taaki ye secure rhe.
+=> .env and its module their is always panga in them 
+
+
+
+# jab bhi server start krte hain ham to use start ya stop karna padta hai .
+so is problem ko solve karne ke liye ham nodemon utilite use karte hain ,"Use" =- File jaise save hoi hai server ko restart kar deta hai.
+  "dev": "nodemon src/index.js"
+  }, and running this nodemon start their function
+
+
