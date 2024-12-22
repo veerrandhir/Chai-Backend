@@ -12,6 +12,7 @@ Keep checking for all notes and related fonder to this New Chapter..
 # jab bhi server start krte hain ham to use start ya stop karna padta hai .
 so is problem ko solve karne ke liye ham nodemon utilite use karte hain ,"Use" =- File jaise save hoi hai server ko restart kar deta hai.
   "dev": "nodemon src/index.js"
-  }, and running this nodemon start their function
+  }, and running this nodemon start their function 
 
 
+Kuchh aditional setting kar diye hain taaki wo kaam kar sake.
